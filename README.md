@@ -5,4 +5,4 @@ This repository serves as my data analysis portfolio that contains the projects 
 - **Email**: [linkedin.com/jirah-sebastian-95290a174](https://www.linkedin.com/in/jirah-sebastian-95290a174)
 
 ## Micro Projects
-[EDA and Data Cleaning](https://github.com/jirah-sebastian/Data-Analysis-Projects) - This repository contains codes of Exploratory Data Analysis and Data Cleaning using python and data cleaning libraries. 
+[EDA and Data Cleaning](https://github.com/jirah-sebastian/Data-Analysis-Projects/tree/fe5312ec0b80c3e7b1bc13279abf261fe9ea43b3/Micro-Projects) - This repository contains codes of Exploratory Data Analysis and Data Cleaning using python and data cleaning libraries. 
